@@ -1,0 +1,1 @@
+2022-07-01 14:31:58,778 - G:/git_alg/prepare_project/Wav2Lip/utils/kafka_utils.py[line:30] - INFO: topic partition:0, key :audio_url,value is {'video_url': 'https://test-video-lip-1309770014.cos.ap-nanjing.myqcloud.com/video_test.mp4', 'audio_url': 'https://test-video-lip-1309770014.cos.ap-nanjing.myqcloud.com/audio_3.mp3'}

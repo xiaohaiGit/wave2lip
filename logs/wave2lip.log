@@ -1,0 +1,2 @@
+2022-07-11 14:55:59,647 - G:\git_alg\prepare_project\Wav2Lip\wave2lip_impliment.py[line:163] - INFO: Using cpu for inference.
+2022-07-11 14:55:59,886 - G:\git_alg\prepare_project\Wav2Lip\wave2lip_impliment.py[line:177] - INFO: Load checkpoint from: checkpoints/wav2lip_gan.pth
